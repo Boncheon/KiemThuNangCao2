@@ -13,7 +13,7 @@ import java.time.Duration;
 
 public class Selelium {
 
-    private WebDriver webDriver;
+//    private WebDriver webDriver;
 //
 //    @BeforeEach
 //    void setUp(){
